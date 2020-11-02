@@ -49,6 +49,6 @@ update1.csgo.wmsj.cn
 st.dl.bscstorage.net
 cdn.mileweb.cs.steampowered.com.8686c.com
 steamcdn-a.akamaihd.net
-store.steampowered.com
-r6.sn-cx1x9-ua8d.gvt1.com
-redirector.gvt1.com
+*.steampowered.com
+*.gvt1.com
+*.ssl.hwcdn.net
