@@ -15,7 +15,7 @@ client-download.steampowered.com
 *.akamai.steamstatic.com
 content-origin.steampowered.com
 clientconfig.akamai.steamtransparent.com
-steampipe.akamaized.net
+#steampipe.akamaized.net
 edgecast.steamstatic.com
 steam.apac.qtlglb.com.mwcloudcdn.com
 *.cs.steampowered.com
@@ -49,6 +49,5 @@ update1.csgo.wmsj.cn
 st.dl.bscstorage.net
 cdn.mileweb.cs.steampowered.com.8686c.com
 steamcdn-a.akamaihd.net
-*.steampowered.com
-*.gvt1.com
-*.ssl.hwcdn.net
+#*.steampowered.com
+#*.gvt1.com
